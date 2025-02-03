@@ -1,0 +1,15 @@
+.sidebar-title{
+    font-family: sans-serif;
+    
+}
+
+.radios{
+    display: flex;
+    flex-direction: column;
+    gap:3px;
+}
+.inpt{
+    position: absolute;
+    left: 10%;
+    
+}
